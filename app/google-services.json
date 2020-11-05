@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014170477998",
+    "firebase_url": "https://zanzibar-18ca6.firebaseio.com",
+    "project_id": "zanzibar-18ca6",
+    "storage_bucket": "zanzibar-18ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014170477998:android:8e3779f229a11d16d1943f",
+        "android_client_info": {
+          "package_name": "com.example.zanzibar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014170477998-ttfpe991g0hdgokofqo9cra7dg3gbrc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADaMMnhG0xUxdbjvtkUTktudQRhg3KO94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014170477998-ttfpe991g0hdgokofqo9cra7dg3gbrc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
